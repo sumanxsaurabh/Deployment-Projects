@@ -12,9 +12,6 @@ defusedxml==0.6.0
 entrypoints==0.3
 Flask==1.1.2
 importlib-metadata==2.0.0
-ipykernel==5.3.4
-ipython==7.18.1
-ipython-genutils==0.2.0
 jedi==0.17.2
 Jinja2==2.11.2
 joblib==0.16.0
@@ -61,7 +58,6 @@ terminado==0.9.1
 testpath==0.4.4
 threadpoolctl==2.1.0
 tornado==6.0.4
-traitlets==5.0.4
 wcwidth==0.2.5
 webencodings==0.5.1
 zipp==3.2.0
